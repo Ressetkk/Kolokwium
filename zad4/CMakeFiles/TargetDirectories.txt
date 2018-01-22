@@ -1,0 +1,3 @@
+/Users/resset/Documents/studia/kolo/zad4/CMakeFiles/rebuild_cache.dir
+/Users/resset/Documents/studia/kolo/zad4/CMakeFiles/edit_cache.dir
+/Users/resset/Documents/studia/kolo/zad4/CMakeFiles/myProgram.dir
